@@ -1,6 +1,6 @@
 # Daycare Multimodal Reasoning Pipeline (Local Edge – Ollama, YOLO, DeepFace)
 
-This repository provides a research-grade, fully local pipeline for in-depth, evidence-based analysis of daycare images, running on resource-constrained edge devices or local servers. It combines **YOLO object detection**, **DeepFace emotion analysis**, a local **Vision-Language Model (VLM)** via [Ollama](https://ollama.com), and a reasoning **Judge Model** (LLM) for robust, explainable scene understanding and automated judgment.
+This repository provides a research-grade, fully local pipeline for in-depth, evidence-based analysis of daycare images, running on resource-constrained edge devices or local servers. It combines **[YOLO object detection](https://docs.ultralytics.com/models/yolo11/)**, **[DeepFace emotion analysis](https://github.com/serengil/deepface)**, a local **Vision-Language Model (VLM)** via [Ollama](https://ollama.com), and a reasoning **Judge Model** (LLM) for robust, explainable scene understanding and automated judgment.
 
 ---
 
@@ -74,7 +74,7 @@ python daycare_pipeline.py
 
 ## Requirements
 
-* Python 3.8+
+* Python 3.11+
 * [Ollama](https://ollama.com) installed and running (for VLM and judge models)
 * All dependencies in `requirements.txt`:
 
