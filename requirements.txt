@@ -1,0 +1,9 @@
+ultralytics
+deepface
+tf-keras
+opencv-python
+requests
+numpy
+pillow
+#for gradio interface install gradio
+
