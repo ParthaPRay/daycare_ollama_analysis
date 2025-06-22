@@ -166,7 +166,3 @@ To obtain a commercial license, please contact: parthapratimray1986@gmail.com
 
 
 ---
-
-*For support, questions, or research collaboration, please contact the repo owner or open an issue.*
-
----
