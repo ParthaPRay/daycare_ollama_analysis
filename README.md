@@ -177,23 +177,26 @@ To view a copy of this license, visit https://creativecommons.org/licenses/by-nc
 
 ---
 
-
-
-
 To obtain a commercial license, please contact: parthapratimray1986@gmail.com
 
 
 ---
-## Citation
+## 📖 Citation
 
-If you use this code or pipeline in your research, please cite:
+If you use this repository or pipeline in your research, please cite:
 
-Partha Pratim Ray. daycare_ollama_analysis: Local Multimodal Pipeline for Daycare Image Reasoning (YOLO, DeepFace, Ollama VLM, Judge LLM). GitHub, 2025. https://github.com/ParthaPRay/daycare_ollama_analysis
+**Partha Pratim Ray**  
+*daycare_ollama_analysis: Local Multimodal Pipeline for Daycare Image Reasoning (YOLO, DeepFace, Ollama VLM, Judge LLM).*  
+GitHub, 2025.  
+[https://github.com/ParthaPRay/daycare_ollama_analysis](https://github.com/ParthaPRay/daycare_ollama_analysis)
 
-BibTeX:
+<details>
+<summary><strong>BibTeX</strong> (click to expand)</summary>
+
+```bibtex
 @software{Ray2025DaycareOllamaAnalysis,
   author = {Partha Pratim Ray},
-  title = {daycare\_ollama\_analysis: Local Multimodal Pipeline for Daycare Image Reasoning (YOLO, DeepFace, Ollama VLM, Judge LLM)},
+  title = {daycare_ollama_analysis: Local Multimodal Pipeline for Daycare Image Reasoning (YOLO, DeepFace, Ollama VLM, Judge LLM)},
   year = {2025},
   publisher = {GitHub},
   howpublished = {\url{https://github.com/ParthaPRay/daycare_ollama_analysis}},
@@ -201,3 +204,4 @@ BibTeX:
   version = {v1.0},
   accessdate = {2025-06-22}
 }
+
