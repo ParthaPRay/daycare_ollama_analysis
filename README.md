@@ -148,13 +148,6 @@ Outputs will be saved in their respective folders, and you’ll see logs in the 
 
 ---
 
-## Citation/Attribution
-
-This pipeline is designed for reproducible research in vision-language reasoning and automated, explainable safety auditing in childcare environments.
-For academic citation, please cite this repository.
-
----
-
 ## License
 
 Creative Commons Attribution-NonCommercial 4.0 International Public License
@@ -191,3 +184,20 @@ To obtain a commercial license, please contact: parthapratimray1986@gmail.com
 
 
 ---
+## Citation
+
+If you use this code or pipeline in your research, please cite:
+
+Partha Pratim Ray. daycare_ollama_analysis: Local Multimodal Pipeline for Daycare Image Reasoning (YOLO, DeepFace, Ollama VLM, Judge LLM). GitHub, 2025. https://github.com/ParthaPRay/daycare_ollama_analysis
+
+BibTeX:
+@software{Ray2025DaycareOllamaAnalysis,
+  author = {Partha Pratim Ray},
+  title = {daycare\_ollama\_analysis: Local Multimodal Pipeline for Daycare Image Reasoning (YOLO, DeepFace, Ollama VLM, Judge LLM)},
+  year = {2025},
+  publisher = {GitHub},
+  howpublished = {\url{https://github.com/ParthaPRay/daycare_ollama_analysis}},
+  note = {Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)},
+  version = {v1.0},
+  accessdate = {2025-06-22}
+}
