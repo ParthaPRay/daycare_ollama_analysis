@@ -190,8 +190,7 @@ If you use this repository or pipeline in your research, please cite:
 GitHub, 2025.  
 [https://github.com/ParthaPRay/daycare_ollama_analysis](https://github.com/ParthaPRay/daycare_ollama_analysis)
 
-<details>
-<summary><strong>BibTeX</strong> (click to expand)</summary>
+
 
 ```bibtex
 @software{Ray2025DaycareOllamaAnalysis,
